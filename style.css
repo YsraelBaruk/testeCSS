@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+.box{
+    background-color: white;
+    width: 50%;
+    height: 50%;
+}
+
+.box-3{
+    background-color: aqua;
+    width: 70%;
+    height: 30%;
+}
+
+.texto{
+    color: red;
+}
